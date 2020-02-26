@@ -14,7 +14,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         super.viewDidLoad()
         
     }
-
+x
 
     @IBAction func openGallery(_ sender: Any) {
         let library = UIImagePickerController()
